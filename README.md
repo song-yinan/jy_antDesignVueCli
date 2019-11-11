@@ -56,6 +56,9 @@ yarn run lint
         |   |       |-- swiper.css
         |   |-- font // 本地字体库
         |       |-- font.css
+        |-- bus // 集成全局方法 $bus
+        |   |-- busConfig.js // $bus配置项
+        |   |-- index // $bus 
         |-- components // 组件
         |   |-- business // 业务组件放置目录
         |   |-- layout // 布局组件放置目录
